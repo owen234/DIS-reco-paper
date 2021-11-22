@@ -1,0 +1,11 @@
+2021-10-22 18:33:49.873729
+training_name : training_athena_reg_v6a
+input_file : athena-rapgap-delphes/dnn-inputs-v6-28m.root
+max_events : 1000000000
+learning_rate_setval_reg : 1e-05
+batch_size_setval : 1024
+max_epochs : 5000
+dropout_setval : 0
+amsgrad_setval : 0
+patience_setval : 40
+huber_delta : 0.01

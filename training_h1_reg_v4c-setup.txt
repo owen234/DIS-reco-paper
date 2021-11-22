@@ -1,0 +1,10 @@
+2021-11-22 09:05:25.606724
+training_name : training_h1_reg_v4c
+input_file : /data/owen/DIS-reco/h1-2021-10-14-v5a/all-h1-rapgap.root
+max_events : 1000000000
+learning_rate_setval_reg : 1e-05
+batch_size_setval : 1024
+max_epochs : 5000
+dropout_setval : 0
+amsgrad_setval : 0
+delta_setval : 0.01
